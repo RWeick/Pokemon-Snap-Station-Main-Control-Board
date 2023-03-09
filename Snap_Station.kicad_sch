@@ -2093,27 +2093,27 @@
           (number "23" (effects (font (size 1.27 1.27))))
         )
         (pin bidirectional line (at -17.78 -16.51 0) (length 2.54)
-          (name "E24" (effects (font (size 1.27 1.27))))
+          (name "A11" (effects (font (size 1.27 1.27))))
           (number "24" (effects (font (size 1.27 1.27))))
         )
         (pin bidirectional line (at -17.78 -19.05 0) (length 2.54)
-          (name "E23" (effects (font (size 1.27 1.27))))
+          (name "A9" (effects (font (size 1.27 1.27))))
           (number "25" (effects (font (size 1.27 1.27))))
         )
         (pin bidirectional line (at -17.78 -21.59 0) (length 2.54)
-          (name "E22" (effects (font (size 1.27 1.27))))
+          (name "A8" (effects (font (size 1.27 1.27))))
           (number "26" (effects (font (size 1.27 1.27))))
         )
         (pin bidirectional line (at -17.78 -24.13 0) (length 2.54)
-          (name "E21" (effects (font (size 1.27 1.27))))
+          (name "A13" (effects (font (size 1.27 1.27))))
           (number "27" (effects (font (size 1.27 1.27))))
         )
         (pin bidirectional line (at -17.78 -26.67 0) (length 2.54)
-          (name "E20" (effects (font (size 1.27 1.27))))
+          (name "Pak.WE" (effects (font (size 1.27 1.27))))
           (number "28" (effects (font (size 1.27 1.27))))
         )
         (pin bidirectional line (at -17.78 -29.21 0) (length 2.54)
-          (name "E19" (effects (font (size 1.27 1.27))))
+          (name "A15" (effects (font (size 1.27 1.27))))
           (number "29" (effects (font (size 1.27 1.27))))
         )
         (pin bidirectional line (at -17.78 29.21 0) (length 2.54)
@@ -2121,11 +2121,11 @@
           (number "3" (effects (font (size 1.27 1.27))))
         )
         (pin bidirectional line (at -17.78 -31.75 0) (length 2.54)
-          (name "E18" (effects (font (size 1.27 1.27))))
+          (name "Pak.CE" (effects (font (size 1.27 1.27))))
           (number "30" (effects (font (size 1.27 1.27))))
         )
         (pin bidirectional line (at -17.78 -34.29 0) (length 2.54)
-          (name "E2" (effects (font (size 1.27 1.27))))
+          (name "A14" (effects (font (size 1.27 1.27))))
           (number "31" (effects (font (size 1.27 1.27))))
         )
         (pin power_in line (at -1.27 -39.37 90) (length 2.54)
@@ -2137,27 +2137,27 @@
           (number "33" (effects (font (size 1.27 1.27))))
         )
         (pin bidirectional line (at 17.78 -33.02 180) (length 2.54)
-          (name "E3" (effects (font (size 1.27 1.27))))
+          (name "A12" (effects (font (size 1.27 1.27))))
           (number "34" (effects (font (size 1.27 1.27))))
         )
         (pin bidirectional line (at 17.78 -30.48 180) (length 2.54)
-          (name "E4" (effects (font (size 1.27 1.27))))
+          (name "A7" (effects (font (size 1.27 1.27))))
           (number "35" (effects (font (size 1.27 1.27))))
         )
         (pin bidirectional line (at 17.78 -27.94 180) (length 2.54)
-          (name "E5" (effects (font (size 1.27 1.27))))
+          (name "A6" (effects (font (size 1.27 1.27))))
           (number "36" (effects (font (size 1.27 1.27))))
         )
         (pin bidirectional line (at 17.78 -25.4 180) (length 2.54)
-          (name "E6" (effects (font (size 1.27 1.27))))
+          (name "A5" (effects (font (size 1.27 1.27))))
           (number "37" (effects (font (size 1.27 1.27))))
         )
         (pin bidirectional line (at 17.78 -22.86 180) (length 2.54)
-          (name "E7" (effects (font (size 1.27 1.27))))
+          (name "A4" (effects (font (size 1.27 1.27))))
           (number "38" (effects (font (size 1.27 1.27))))
         )
         (pin bidirectional line (at 17.78 -20.32 180) (length 2.54)
-          (name "E8" (effects (font (size 1.27 1.27))))
+          (name "A3" (effects (font (size 1.27 1.27))))
           (number "39" (effects (font (size 1.27 1.27))))
         )
         (pin bidirectional line (at -17.78 26.67 0) (length 2.54)
@@ -2169,23 +2169,23 @@
           (number "40" (effects (font (size 1.27 1.27))))
         )
         (pin bidirectional line (at 17.78 -17.78 180) (length 2.54)
-          (name "E9" (effects (font (size 1.27 1.27))))
+          (name "A2" (effects (font (size 1.27 1.27))))
           (number "41" (effects (font (size 1.27 1.27))))
         )
         (pin bidirectional line (at 17.78 -15.24 180) (length 2.54)
-          (name "E10" (effects (font (size 1.27 1.27))))
+          (name "A1" (effects (font (size 1.27 1.27))))
           (number "42" (effects (font (size 1.27 1.27))))
         )
         (pin bidirectional line (at 17.78 -12.7 180) (length 2.54)
-          (name "E11" (effects (font (size 1.27 1.27))))
+          (name "A0" (effects (font (size 1.27 1.27))))
           (number "43" (effects (font (size 1.27 1.27))))
         )
         (pin bidirectional line (at 17.78 -10.16 180) (length 2.54)
-          (name "E12" (effects (font (size 1.27 1.27))))
+          (name "D0" (effects (font (size 1.27 1.27))))
           (number "44" (effects (font (size 1.27 1.27))))
         )
         (pin bidirectional line (at 17.78 -7.62 180) (length 2.54)
-          (name "E13" (effects (font (size 1.27 1.27))))
+          (name "D1" (effects (font (size 1.27 1.27))))
           (number "45" (effects (font (size 1.27 1.27))))
         )
         (pin bidirectional line (at 17.78 -5.08 180) (length 2.54)
@@ -2193,15 +2193,15 @@
           (number "46" (effects (font (size 1.27 1.27))))
         )
         (pin bidirectional line (at 17.78 -2.54 180) (length 2.54)
-          (name "E16" (effects (font (size 1.27 1.27))))
+          (name "D2" (effects (font (size 1.27 1.27))))
           (number "47" (effects (font (size 1.27 1.27))))
         )
         (pin bidirectional line (at 17.78 0 180) (length 2.54)
-          (name "E32" (effects (font (size 1.27 1.27))))
+          (name "D3" (effects (font (size 1.27 1.27))))
           (number "48" (effects (font (size 1.27 1.27))))
         )
         (pin bidirectional line (at 17.78 2.54 180) (length 2.54)
-          (name "E30" (effects (font (size 1.27 1.27))))
+          (name "D4" (effects (font (size 1.27 1.27))))
           (number "49" (effects (font (size 1.27 1.27))))
         )
         (pin bidirectional line (at -17.78 24.13 0) (length 2.54)
@@ -2209,11 +2209,11 @@
           (number "5" (effects (font (size 1.27 1.27))))
         )
         (pin bidirectional line (at 17.78 5.08 180) (length 2.54)
-          (name "E29" (effects (font (size 1.27 1.27))))
+          (name "D5" (effects (font (size 1.27 1.27))))
           (number "50" (effects (font (size 1.27 1.27))))
         )
         (pin bidirectional line (at 17.78 7.62 180) (length 2.54)
-          (name "E29" (effects (font (size 1.27 1.27))))
+          (name "D5" (effects (font (size 1.27 1.27))))
           (number "51" (effects (font (size 1.27 1.27))))
         )
         (pin power_in line (at 1.27 -39.37 90) (length 2.54)
@@ -2221,19 +2221,19 @@
           (number "52" (effects (font (size 1.27 1.27))))
         )
         (pin bidirectional line (at 17.78 10.16 180) (length 2.54)
-          (name "E28" (effects (font (size 1.27 1.27))))
+          (name "D6" (effects (font (size 1.27 1.27))))
           (number "53" (effects (font (size 1.27 1.27))))
         )
         (pin bidirectional line (at 17.78 12.7 180) (length 2.54)
-          (name "E27" (effects (font (size 1.27 1.27))))
+          (name "D7" (effects (font (size 1.27 1.27))))
           (number "54" (effects (font (size 1.27 1.27))))
         )
         (pin bidirectional line (at 17.78 15.24 180) (length 2.54)
-          (name "E26" (effects (font (size 1.27 1.27))))
+          (name "A10" (effects (font (size 1.27 1.27))))
           (number "55" (effects (font (size 1.27 1.27))))
         )
         (pin bidirectional line (at 17.78 17.78 180) (length 2.54)
-          (name "E25" (effects (font (size 1.27 1.27))))
+          (name "Pak.OE" (effects (font (size 1.27 1.27))))
           (number "56" (effects (font (size 1.27 1.27))))
         )
         (pin power_in line (at 3.81 -39.37 90) (length 2.54)
@@ -3788,10 +3788,10 @@
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
-  (global_label "CNT-NUS.VCC.Out" (shape bidirectional) (at 344.17 388.62 180) (fields_autoplaced)
+  (global_label "CNT-NUS.VCC.Out" (shape bidirectional) (at 356.87 388.62 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 023eb83e-4bce-4249-be19-937454f95baa)
-    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 323.0985 388.62 0)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 335.7985 388.62 0)
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
@@ -3809,10 +3809,10 @@
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
-  (global_label "GND" (shape bidirectional) (at 595.63 375.92 0) (fields_autoplaced)
+  (global_label "GND" (shape bidirectional) (at 566.42 375.92 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 0575dc23-bc58-4065-825b-b70be73120ae)
-    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 601.9136 375.8406 0)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 572.7036 375.8406 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
@@ -3823,10 +3823,10 @@
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
-  (global_label "HCT30-E20.Output" (shape bidirectional) (at 510.54 255.27 180) (fields_autoplaced)
+  (global_label "A0-A4-WE" (shape bidirectional) (at 510.54 255.27 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 0759262d-9df1-43aa-8654-ada9a6f482b2)
-    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 488.5617 255.27 0)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 496.1815 255.27 0)
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
@@ -3844,10 +3844,10 @@
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
-  (global_label "CNT-NUS.E28" (shape bidirectional) (at 391.16 200.66 0) (fields_autoplaced)
+  (global_label "D6" (shape bidirectional) (at 391.16 200.66 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 0a4946d9-0df6-4adc-90d0-8d1b997b4c2a)
-    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 408.3609 200.66 0)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 397.6566 200.66 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
@@ -3858,10 +3858,10 @@
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
-  (global_label "GND" (shape bidirectional) (at 535.94 370.84 0) (fields_autoplaced)
+  (global_label "GND" (shape bidirectional) (at 525.78 370.84 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 0c5a5f28-c494-4ceb-8d88-7d4e96b0feb1)
-    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 542.2236 370.7606 0)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 532.0636 370.7606 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
@@ -3928,10 +3928,10 @@
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
-  (global_label "CNT-NUS.E29" (shape bidirectional) (at 560.07 373.38 180) (fields_autoplaced)
+  (global_label "D5" (shape bidirectional) (at 541.02 373.38 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 1303d3d5-f849-4d0f-b617-41ccddd2b03b)
-    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 542.8691 373.38 0)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 534.5234 373.38 0)
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
@@ -3942,10 +3942,10 @@
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
-  (global_label "CNT-NUS.E29" (shape bidirectional) (at 391.16 205.74 0) (fields_autoplaced)
+  (global_label "D5" (shape bidirectional) (at 391.16 205.74 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 163867dc-8dae-48e9-8f55-102ed0709eca)
-    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 408.3609 205.74 0)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 397.6566 205.74 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
@@ -3963,10 +3963,10 @@
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
-  (global_label "HCT30-E20.Output" (shape bidirectional) (at 393.7 363.22 180) (fields_autoplaced)
+  (global_label "A0-A4-WE" (shape bidirectional) (at 393.7 363.22 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 1c41bebc-51d9-49d5-96e7-f809ff9b9175)
-    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 371.7217 363.22 0)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 379.3415 363.22 0)
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
@@ -3991,10 +3991,10 @@
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
-  (global_label "CNT-NUS.E2" (shape bidirectional) (at 543.56 262.89 0) (fields_autoplaced)
+  (global_label "A14" (shape bidirectional) (at 543.56 262.89 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 1fee263a-731b-47fd-8817-37792ad9c6b9)
-    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 559.5514 262.89 0)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 551.0847 262.89 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
@@ -4117,10 +4117,10 @@
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
-  (global_label "CNT-NUS.E2.Output" (shape bidirectional) (at 393.7 365.76 180) (fields_autoplaced)
+  (global_label "A14.Inverted" (shape bidirectional) (at 393.7 365.76 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 2f2ecb56-a9e2-46aa-b7a0-beeb62a73e2e)
-    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 370.8749 365.76 0)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 378.011 365.76 0)
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
@@ -4131,10 +4131,10 @@
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
-  (global_label "CNT-NUS.E32" (shape bidirectional) (at 529.59 387.35 180) (fields_autoplaced)
+  (global_label "D3" (shape bidirectional) (at 520.7 387.35 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 315b44cd-b2eb-4c86-94e6-005754c79522)
-    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 512.3891 387.35 0)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 514.2034 387.35 0)
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
@@ -4145,10 +4145,10 @@
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
-  (global_label "CNT-NUS.E30" (shape bidirectional) (at 391.16 208.28 0) (fields_autoplaced)
+  (global_label "D4" (shape bidirectional) (at 391.16 208.28 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 360c149d-0772-4ab0-b3ef-6b9865f04a56)
-    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 408.3609 208.28 0)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 397.6566 208.28 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
@@ -4180,10 +4180,10 @@
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
-  (global_label "CNT-NUS.E2" (shape bidirectional) (at 588.01 262.89 180) (fields_autoplaced)
+  (global_label "A14" (shape bidirectional) (at 588.01 262.89 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 3e301c69-e908-4f68-ba49-d898a10797ec)
-    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 572.0186 262.89 0)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 580.4853 262.89 0)
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
@@ -4215,10 +4215,10 @@
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
-  (global_label "CNT-NUS.E12" (shape bidirectional) (at 349.25 388.62 0) (fields_autoplaced)
+  (global_label "D0" (shape bidirectional) (at 361.95 388.62 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 3fd7bb97-97e7-4df3-afe7-eb6b21cd2882)
-    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 366.4509 388.62 0)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 368.4466 388.62 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
@@ -4285,10 +4285,10 @@
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
-  (global_label "CNT-NUS.E2" (shape bidirectional) (at 355.6 245.11 180) (fields_autoplaced)
+  (global_label "A14" (shape bidirectional) (at 355.6 245.11 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 4b53180a-5b7b-4e40-aca2-b95dd0b2ffa0)
-    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 339.6086 245.11 0)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 348.0753 245.11 0)
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
@@ -4355,10 +4355,10 @@
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
-  (global_label "CNT-NUS.E13" (shape bidirectional) (at 391.16 218.44 0) (fields_autoplaced)
+  (global_label "D1" (shape bidirectional) (at 391.16 218.44 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 55fe23f9-98c6-4c82-9d00-d515bda6f241)
-    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 408.3609 218.44 0)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 397.6566 218.44 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
@@ -4397,10 +4397,10 @@
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
-  (global_label "CNT-NUS.E25" (shape input) (at 393.7 360.68 180) (fields_autoplaced)
+  (global_label "A0-A4-OE" (shape input) (at 393.7 360.68 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 5b383c19-b69b-4ee9-86de-86abc8b33ea0)
-    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 377.6104 360.68 0)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 380.5737 360.68 0)
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
@@ -4446,24 +4446,24 @@
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
-  (global_label "CNT-NUS.E29" (shape bidirectional) (at 444.5 373.38 0) (fields_autoplaced)
+  (global_label "D5" (shape bidirectional) (at 444.5 373.38 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 5fd1c6a9-d36c-4588-a9aa-1fc19b1c8943)
-    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 461.7009 373.38 0)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 450.9966 373.38 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
-  (global_label "CNT-NUS.E30" (shape bidirectional) (at 444.5 375.92 0) (fields_autoplaced)
+  (global_label "D4" (shape bidirectional) (at 444.5 375.92 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 60597b98-621a-4ed6-a58a-05c19d18c2f3)
-    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 461.7009 375.92 0)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 450.9966 375.92 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
-  (global_label "CNT-NUS.E2.Output" (shape bidirectional) (at 543.56 257.81 0) (fields_autoplaced)
+  (global_label "A14.Inverted" (shape bidirectional) (at 543.56 257.81 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 610aad98-931f-4e12-9b45-d547264d8e69)
-    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 566.3851 257.81 0)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 559.249 257.81 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
@@ -4481,10 +4481,10 @@
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
-  (global_label "CNT-NUS.E27" (shape bidirectional) (at 391.16 198.12 0) (fields_autoplaced)
+  (global_label "D7" (shape bidirectional) (at 391.16 198.12 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 64482ad7-108f-4424-93ea-b3190f91fb41)
-    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 408.3609 198.12 0)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 397.6566 198.12 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
@@ -4516,17 +4516,17 @@
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
-  (global_label "CNT-NUS.E27" (shape bidirectional) (at 487.68 368.3 180) (fields_autoplaced)
+  (global_label "D7" (shape bidirectional) (at 487.68 368.3 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 688288da-3670-46e8-8bcc-6a8acdf6b45b)
-    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 470.4791 368.3 0)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 481.1834 368.3 0)
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
-  (global_label "CNT-NUS.E16" (shape bidirectional) (at 444.5 391.16 0) (fields_autoplaced)
+  (global_label "D2" (shape bidirectional) (at 444.5 391.16 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 68af1424-a8ec-455b-b81b-3a833d51480b)
-    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 461.7009 391.16 0)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 450.9966 391.16 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
@@ -4558,10 +4558,10 @@
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
-  (global_label "CNT-NUS.E28" (shape bidirectional) (at 530.86 370.84 180) (fields_autoplaced)
+  (global_label "D6" (shape bidirectional) (at 520.7 370.84 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 6b11126b-ffd3-41bc-8b50-01d6ecd791d3)
-    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 513.6591 370.84 0)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 514.2034 370.84 0)
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
@@ -4628,10 +4628,10 @@
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
-  (global_label "CNT-NUS.E13" (shape bidirectional) (at 306.07 391.16 0) (fields_autoplaced)
+  (global_label "D1" (shape bidirectional) (at 327.66 391.16 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 766194bb-1713-4607-b898-9d6d8d948141)
-    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 323.2709 391.16 0)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 334.1566 391.16 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
@@ -4768,10 +4768,10 @@
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
-  (global_label "GND" (shape bidirectional) (at 565.15 373.38 0) (fields_autoplaced)
+  (global_label "GND" (shape bidirectional) (at 546.1 373.38 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 8536e8ee-0444-4ced-bef4-68dcd9e1395e)
-    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 571.4336 373.3006 0)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 552.3836 373.3006 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
@@ -4789,10 +4789,10 @@
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
-  (global_label "CNT-NUS.E20" (shape bidirectional) (at 487.68 247.65 0) (fields_autoplaced)
+  (global_label "WE" (shape bidirectional) (at 487.68 247.65 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 874bc1b1-f9d2-4d10-bf62-d2671615d362)
-    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 504.8809 247.65 0)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 494.2975 247.65 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
@@ -4817,10 +4817,10 @@
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
-  (global_label "CNT-NUS.E13" (shape bidirectional) (at 393.7 391.16 180) (fields_autoplaced)
+  (global_label "D1" (shape bidirectional) (at 393.7 391.16 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 904ecb0a-2b08-429e-aa69-bf1c43455973)
-    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 376.4991 391.16 0)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 387.2034 391.16 0)
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
@@ -4894,10 +4894,10 @@
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
-  (global_label "CNT-NUS.E12" (shape bidirectional) (at 393.7 388.62 180) (fields_autoplaced)
+  (global_label "D0" (shape bidirectional) (at 393.7 388.62 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 98912143-8a63-4fca-a478-80fe3835d9d0)
-    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 376.4991 388.62 0)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 387.2034 388.62 0)
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
@@ -4908,10 +4908,10 @@
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
-  (global_label "CNT-NUS.E27" (shape bidirectional) (at 444.5 368.3 0) (fields_autoplaced)
+  (global_label "D7" (shape bidirectional) (at 444.5 368.3 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 99fcee7b-4f1b-478f-b1d1-4d5a6d5a5cf0)
-    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 461.7009 368.3 0)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 450.9966 368.3 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
@@ -4992,10 +4992,10 @@
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
-  (global_label "CNT-NUS.E20" (shape bidirectional) (at 355.6 237.49 180) (fields_autoplaced)
+  (global_label "WE" (shape bidirectional) (at 355.6 237.49 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid aa176a7b-bb13-4973-a319-cea619e63561)
-    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 338.3991 237.49 0)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 348.9825 237.49 0)
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
@@ -5034,10 +5034,10 @@
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
-  (global_label "CNT-NUS.E25" (shape input) (at 474.98 156.21 180) (fields_autoplaced)
+  (global_label "A0-A4-OE" (shape input) (at 474.98 156.21 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid aece4859-fb2d-40c0-8683-3ef2c5e05c70)
-    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 458.8904 156.21 0)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 461.8537 156.21 0)
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
@@ -5090,10 +5090,10 @@
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
-  (global_label "CNT-NUS.E32" (shape bidirectional) (at 391.16 210.82 0) (fields_autoplaced)
+  (global_label "D3" (shape bidirectional) (at 391.16 210.82 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid b3906dc6-08be-459b-b6df-069b858e64c3)
-    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 408.3609 210.82 0)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 397.6566 210.82 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
@@ -5146,17 +5146,17 @@
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
-  (global_label "GND" (shape bidirectional) (at 300.99 391.16 180) (fields_autoplaced)
+  (global_label "GND" (shape bidirectional) (at 322.58 391.16 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid bea9a500-006f-4c9c-a05b-9cfd562ee7c3)
-    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 294.7064 391.0806 0)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 316.2964 391.0806 0)
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
-  (global_label "CNT-NUS.E16" (shape bidirectional) (at 391.16 213.36 0) (fields_autoplaced)
+  (global_label "D2" (shape bidirectional) (at 391.16 213.36 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid bf7016ad-a33b-4523-b835-3d1882e220fe)
-    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 408.3609 213.36 0)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 397.6566 213.36 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
@@ -5181,17 +5181,17 @@
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
-  (global_label "CNT-NUS.E30" (shape bidirectional) (at 590.55 375.92 180) (fields_autoplaced)
+  (global_label "D4" (shape bidirectional) (at 561.34 375.92 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid c15af071-11bf-4ff2-a158-b528b99c58d7)
-    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 573.3491 375.92 0)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 554.8434 375.92 0)
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
-  (global_label "GND" (shape bidirectional) (at 534.67 387.35 0) (fields_autoplaced)
+  (global_label "GND" (shape bidirectional) (at 525.78 387.35 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid c1b3d5c7-0451-4867-8a6e-e7390536669a)
-    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 540.9536 387.2706 0)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 532.0636 387.2706 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
@@ -5265,10 +5265,10 @@
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
-  (global_label "CNT-NUS.E12" (shape bidirectional) (at 391.16 220.98 0) (fields_autoplaced)
+  (global_label "D0" (shape bidirectional) (at 391.16 220.98 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid cbb7faa0-d155-4c2b-8565-319786725602)
-    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 408.3609 220.98 0)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 397.6566 220.98 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
@@ -5398,10 +5398,10 @@
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
-  (global_label "CNT-NUS.E32" (shape bidirectional) (at 444.5 388.62 0) (fields_autoplaced)
+  (global_label "D3" (shape bidirectional) (at 444.5 388.62 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid e1f1bc70-533c-4672-9734-7aa30e81ad21)
-    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 461.7009 388.62 0)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 450.9966 388.62 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
@@ -5559,10 +5559,10 @@
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
-  (global_label "CNT-NUS.E28" (shape bidirectional) (at 444.5 370.84 0) (fields_autoplaced)
+  (global_label "D6" (shape bidirectional) (at 444.5 370.84 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid f630f927-5c70-463a-ac8d-eeca430c5786)
-    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 461.7009 370.84 0)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 450.9966 370.84 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
@@ -5587,10 +5587,10 @@
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
-  (global_label "CNT-NUS.E16" (shape bidirectional) (at 487.68 391.16 180) (fields_autoplaced)
+  (global_label "D2" (shape bidirectional) (at 487.68 391.16 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid faca374a-f10a-4ad0-b452-864819c92017)
-    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 470.4791 391.16 0)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 481.1834 391.16 0)
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
@@ -5635,7 +5635,7 @@
     (pin "2" (uuid 9a87f3a7-595e-4f6f-8e74-cd07cf7ec59a))
     (pin "3" (uuid 1e0f76ef-6773-4cb8-8e8a-cc4740f7b3fe))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "D11") (unit 1)
         )
@@ -5661,7 +5661,7 @@
     (pin "1" (uuid 42fbeeed-6a92-4d10-b7c5-a78f69cbe78e))
     (pin "2" (uuid 4c90fb77-f3eb-4ad5-b75b-89c364976075))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "R21") (unit 1)
         )
@@ -5687,7 +5687,7 @@
     (pin "1" (uuid f0671844-dd51-4293-8484-abfd219b4474))
     (pin "2" (uuid 5c41daf0-38c9-4187-9469-df324b6a5cb8))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "R14") (unit 1)
         )
@@ -5727,7 +5727,7 @@
     (pin "8" (uuid 8c6679d0-5b79-42c0-9d11-57b2dd359aee))
     (pin "9" (uuid 662940c0-67cd-4855-9446-87a9d69d3d46))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "U1") (unit 1)
         )
@@ -5753,7 +5753,7 @@
     (pin "1" (uuid 7de0c887-9b43-4958-85d2-4994d4c8fcb3))
     (pin "2" (uuid 64778637-6e20-4475-b557-4883c1447906))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "R77") (unit 1)
         )
@@ -5780,7 +5780,7 @@
     (pin "2" (uuid d1a68b06-c7bc-4fbc-a5a3-0fdf88d1465c))
     (pin "3" (uuid af682c9c-0ba6-4624-abc2-85dc01025aad))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "D16") (unit 1)
         )
@@ -5806,7 +5806,7 @@
     (pin "1" (uuid 1629a82d-c0b9-444e-9a1f-6bcc28c269b0))
     (pin "2" (uuid c167a309-809f-4b3c-9da3-35388253c116))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "R32") (unit 1)
         )
@@ -5832,7 +5832,7 @@
     (pin "1" (uuid 76d6be3c-2829-4e24-ac1d-0218b26b6e1f))
     (pin "2" (uuid 1eea9a0a-cb48-4788-b510-ad560185751a))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "C6") (unit 1)
         )
@@ -5858,7 +5858,7 @@
     (pin "1" (uuid ca42c0d1-2f15-416a-870c-b349139c9724))
     (pin "2" (uuid 49366808-cee5-4e72-a861-bcfe3371f2df))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "R73") (unit 1)
         )
@@ -5884,7 +5884,7 @@
     (pin "1" (uuid 589d5385-704f-4f92-8c86-5581e62582dc))
     (pin "2" (uuid 98f9f833-310c-4152-a3e4-1d83f2947389))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "F1") (unit 1)
         )
@@ -5910,7 +5910,7 @@
     (pin "1" (uuid df7c9b52-2269-46a0-9a95-b0ef1f46dcb2))
     (pin "2" (uuid 916207fe-2059-4337-aa13-9019f2b253f9))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "R45") (unit 1)
         )
@@ -5937,7 +5937,7 @@
     (pin "2" (uuid 4ea983f2-77d8-41f5-9665-31581590864d))
     (pin "3" (uuid 9f0fc75e-256a-4b5d-be67-3845ea5fab8c))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "D21") (unit 1)
         )
@@ -5970,7 +5970,7 @@
     (pin "8" (uuid 16f184f2-cd73-4c9a-aaf8-5bedf0f9aed9))
     (pin "9" (uuid e13e97cc-66d2-44a9-b9e7-cef95ef5ae4b))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "P1") (unit 1)
         )
@@ -5997,7 +5997,7 @@
     (pin "2" (uuid 184fb262-f1bf-4847-be9d-85ee6ceff6d2))
     (pin "3" (uuid b0e8cfb5-f383-4698-8fbc-cb293ad31899))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "D9") (unit 1)
         )
@@ -6023,7 +6023,7 @@
     (pin "1" (uuid e0e255b9-c972-4fce-b900-4344c62f2cf2))
     (pin "2" (uuid 7030a46c-3708-49a5-bb17-fecd43aa5ac8))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "R68") (unit 1)
         )
@@ -6049,7 +6049,7 @@
     (pin "1" (uuid b0936e1d-5ec1-4898-a81a-071b7edf6b18))
     (pin "2" (uuid 4e813a07-baae-4126-b33a-6ecd4900f958))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "R41") (unit 1)
         )
@@ -6057,25 +6057,25 @@
     )
   )
 
-  (symbol (lib_id "Device:R_Small_US") (at 303.53 391.16 90) (unit 1)
+  (symbol (lib_id "Device:R_Small_US") (at 325.12 391.16 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 24984cc8-d776-4a66-b004-580b99794e84)
-    (property "Reference" "R40" (at 303.53 384.81 90)
+    (property "Reference" "R40" (at 325.12 384.81 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "10k Ohm" (at 303.53 387.35 90)
+    (property "Value" "10k Ohm" (at 325.12 387.35 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" (at 303.53 391.16 0)
+    (property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" (at 325.12 391.16 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 303.53 391.16 0)
+    (property "Datasheet" "~" (at 325.12 391.16 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 94fcbaee-7b7a-4ab3-900a-b696ef0b0e53))
     (pin "2" (uuid 6e8cbae7-db8e-460b-a093-c0325203d2de))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "R40") (unit 1)
         )
@@ -6101,7 +6101,7 @@
     (pin "1" (uuid a5b69908-b1c1-4b48-987a-6f84b66de7e7))
     (pin "2" (uuid 3535a209-217c-499f-bf6d-edcd54c1c546))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "R31") (unit 1)
         )
@@ -6127,7 +6127,7 @@
     (pin "1" (uuid 146b65aa-753e-432a-b3ef-2f202b150517))
     (pin "2" (uuid 62a420de-64c2-4491-8147-0fc5bc40835b))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "R57") (unit 1)
         )
@@ -6153,7 +6153,7 @@
     (pin "1" (uuid 6a3497b1-3300-42cc-a15d-18557758d3db))
     (pin "2" (uuid a1a89b47-9ace-4aa3-ab03-ce41cbe4ddd2))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "R70") (unit 1)
         )
@@ -6179,7 +6179,7 @@
     (pin "1" (uuid c1ed01bc-4e3c-48d7-b71f-eb74869a03b8))
     (pin "2" (uuid 31a68887-e6f8-44ed-866f-95c85ecf5d3f))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "C14") (unit 1)
         )
@@ -6205,7 +6205,7 @@
     (pin "1" (uuid 32b50c37-d1fe-4482-b0bb-ae40e1985111))
     (pin "2" (uuid 35c6921c-6665-47ef-9ad7-05d3051219dd))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "Y1") (unit 1)
         )
@@ -6231,7 +6231,7 @@
     (pin "1" (uuid bb2e7210-7854-4c4d-b5f9-cc18bf6d222b))
     (pin "2" (uuid 1087a445-9ec2-4580-897d-4ccbc6f969e7))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "R62") (unit 1)
         )
@@ -6257,7 +6257,7 @@
     (pin "1" (uuid c02c0eab-595e-4502-be1d-7601cb33a084))
     (pin "2" (uuid f59c1439-a4d5-4b91-b5f4-d529055bce55))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "C7") (unit 1)
         )
@@ -6284,7 +6284,7 @@
     (pin "2" (uuid 81417760-8828-4609-8a76-0822a536564b))
     (pin "3" (uuid caeeea83-0b4f-45db-95ea-c11099d1ccf3))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "D20") (unit 1)
         )
@@ -6311,7 +6311,7 @@
     (pin "2" (uuid 9d7b9e67-e169-42e7-9d83-9c2666103c28))
     (pin "3" (uuid ee5b337d-2052-4879-8bc3-9542fd29f3a6))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "U3") (unit 1)
         )
@@ -6337,7 +6337,7 @@
     (pin "1" (uuid deeba69a-cd22-484c-9c77-2e8930846410))
     (pin "2" (uuid 832d99ef-e94b-4aa7-8af1-6f7a6c6c4076))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "C9") (unit 1)
         )
@@ -6364,7 +6364,7 @@
     (pin "2" (uuid 7d36d0a7-3497-4df0-9e79-80e422d1a21b))
     (pin "3" (uuid 352f0a40-d92b-4e13-8b94-fc3ee48c25ff))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "D17") (unit 1)
         )
@@ -6392,7 +6392,7 @@
     (pin "3" (uuid 82decb2f-7006-4aa1-85d1-9cda81897985))
     (pin "4" (uuid e98d8a8a-11e1-427f-aad2-792b970d9535))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "J14") (unit 1)
         )
@@ -6420,7 +6420,7 @@
     (pin "3" (uuid aa6289cd-4027-409d-a5e5-c0b21da00bd9))
     (pin "4" (uuid b9233ca7-81c7-4b47-8356-68bac1e70ef5))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "J8") (unit 1)
         )
@@ -6446,7 +6446,7 @@
     (pin "1" (uuid 87d6355d-acf8-40dc-bee4-75bf1823adb0))
     (pin "2" (uuid e6ccce10-1205-4339-a2d9-dbebb79defa2))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "R12") (unit 1)
         )
@@ -6472,7 +6472,7 @@
     (pin "1" (uuid 3e6704fa-112c-4ba4-908e-45aac2e0e01d))
     (pin "2" (uuid 35dcbc60-09fe-4f6f-9293-2f61ff4d4ced))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "C19") (unit 1)
         )
@@ -6498,7 +6498,7 @@
     (pin "1" (uuid 294ffbff-ad63-4379-ab8d-53b75e807fc1))
     (pin "2" (uuid a16c453e-0c0e-4849-abb1-1fba93fc4b8e))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "R71") (unit 1)
         )
@@ -6506,25 +6506,25 @@
     )
   )
 
-  (symbol (lib_id "Device:R_Small_US") (at 562.61 373.38 270) (mirror x) (unit 1)
+  (symbol (lib_id "Device:R_Small_US") (at 543.56 373.38 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 3f022b9f-d009-46c2-8faa-ce4118701db9)
-    (property "Reference" "R37" (at 562.61 367.03 90)
+    (property "Reference" "R37" (at 543.56 367.03 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "10k Ohm" (at 562.61 369.57 90)
+    (property "Value" "10k Ohm" (at 543.56 369.57 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" (at 562.61 373.38 0)
+    (property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" (at 543.56 373.38 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 562.61 373.38 0)
+    (property "Datasheet" "~" (at 543.56 373.38 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid b9434bd0-fc5a-44d0-912e-beee7cba204b))
     (pin "2" (uuid eab32b9c-b5c6-4423-9320-d3cc78a36392))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "R37") (unit 1)
         )
@@ -6532,25 +6532,25 @@
     )
   )
 
-  (symbol (lib_id "Device:R_Small_US") (at 593.09 375.92 270) (mirror x) (unit 1)
+  (symbol (lib_id "Device:R_Small_US") (at 563.88 375.92 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 3fe14efd-cebd-4f5e-8835-6abf83942bd0)
-    (property "Reference" "R38" (at 593.09 369.57 90)
+    (property "Reference" "R38" (at 563.88 369.57 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "10k Ohm" (at 593.09 372.11 90)
+    (property "Value" "10k Ohm" (at 563.88 372.11 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" (at 593.09 375.92 0)
+    (property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" (at 563.88 375.92 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 593.09 375.92 0)
+    (property "Datasheet" "~" (at 563.88 375.92 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid eb3ddc12-7f60-4140-b651-ac81a188cf05))
     (pin "2" (uuid 09ee473f-64ad-487b-99f7-85813b919e04))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "R38") (unit 1)
         )
@@ -6576,7 +6576,7 @@
     (pin "1" (uuid 34cdff36-bcbd-4959-95fb-3149ddc51157))
     (pin "2" (uuid e5ca283e-cfb2-479d-ac4f-2373eab96b0b))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "C3") (unit 1)
         )
@@ -6584,25 +6584,25 @@
     )
   )
 
-  (symbol (lib_id "Device:R_Small_US") (at 346.71 388.62 270) (mirror x) (unit 1)
+  (symbol (lib_id "Device:R_Small_US") (at 359.41 388.62 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 4216d6db-7a52-4835-a6e3-e0c7e95b36d4)
-    (property "Reference" "R34" (at 346.71 382.27 90)
+    (property "Reference" "R34" (at 359.41 382.27 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "10k Ohm" (at 346.71 384.81 90)
+    (property "Value" "10k Ohm" (at 359.41 384.81 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" (at 346.71 388.62 0)
+    (property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" (at 359.41 388.62 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 346.71 388.62 0)
+    (property "Datasheet" "~" (at 359.41 388.62 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 2c9cd624-b9dd-4474-8293-9d0896cb4f63))
     (pin "2" (uuid 3c0b4de7-69cf-4644-8214-2b0f0a545ac8))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "R34") (unit 1)
         )
@@ -6628,7 +6628,7 @@
     (pin "1" (uuid 13b51d2e-62a7-4cd4-8ce7-c95d898887f7))
     (pin "2" (uuid d675c48d-073a-422e-8888-d0ae6faac7e7))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "R43") (unit 1)
         )
@@ -6654,7 +6654,7 @@
     (pin "1" (uuid e7419cc0-ffb7-496b-b44e-c807d586e072))
     (pin "2" (uuid e605b9e0-3cf8-4135-8774-f55ddaf56b31))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "R54") (unit 1)
         )
@@ -6694,7 +6694,7 @@
     (pin "8" (uuid 25885792-6eaa-486f-95ca-33083490338d))
     (pin "9" (uuid 32c1bc28-290d-4071-b477-53a1f05ec3b4))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "U11") (unit 1)
         )
@@ -6720,7 +6720,7 @@
     (pin "1" (uuid 1c748884-632e-44e4-8dc5-c998910ae378))
     (pin "2" (uuid 413f3e8e-1e61-44fa-81d4-4440a0a4be10))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "R48") (unit 1)
         )
@@ -6747,7 +6747,7 @@
     (pin "2" (uuid ccf781fe-6d65-41ce-8368-f4ea147882a8))
     (pin "3" (uuid a5d48905-83c4-4eae-b069-e85014216834))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "J12") (unit 1)
         )
@@ -6773,7 +6773,7 @@
     (pin "1" (uuid fd5879fb-9cf7-442c-985c-b7a01602b5af))
     (pin "2" (uuid 62655201-945a-4be6-8e45-865cb418e1c1))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "R8") (unit 1)
         )
@@ -6799,7 +6799,7 @@
     (pin "1" (uuid 791924aa-dc18-460c-b589-5455f2853293))
     (pin "2" (uuid 08442ab8-38a9-4520-9d68-833ad1a175d3))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "R56") (unit 1)
         )
@@ -6825,7 +6825,7 @@
     (pin "1" (uuid 37c38286-e8ca-4795-8a4c-042fc0249d2f))
     (pin "2" (uuid 709d51c6-55e6-4811-b37b-badff6a04894))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "R66") (unit 1)
         )
@@ -6851,7 +6851,7 @@
     (pin "1" (uuid c9b76bd8-aed5-4414-b9c3-0bfb31f104c7))
     (pin "2" (uuid 8a1fb092-ba36-4e46-afea-e0ae942b690d))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "R67") (unit 1)
         )
@@ -6877,7 +6877,7 @@
     (pin "1" (uuid e5d51fe6-cc52-46b7-9fd5-390d6a1cc0b2))
     (pin "2" (uuid bb7d64c9-d89e-4f54-9b34-ad405b394e45))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "R35") (unit 1)
         )
@@ -6903,7 +6903,7 @@
     (pin "1" (uuid 9d6e822f-b296-462d-bbb0-7b533b49870b))
     (pin "2" (uuid 01e68732-0c55-4015-adc7-9a1631201f9b))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "R30") (unit 1)
         )
@@ -6929,7 +6929,7 @@
     (pin "1" (uuid d46180ba-267a-485f-8553-69406d70a157))
     (pin "2" (uuid 5bfdeb4c-3439-4261-91c1-fb1e2e562b0f))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "R74") (unit 1)
         )
@@ -6955,7 +6955,7 @@
     (pin "1" (uuid 34f32ce0-693c-4ffe-bda0-0f8580daf8c7))
     (pin "2" (uuid c0a24a5f-89a5-4484-a61d-a55d06ecc691))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "C26") (unit 1)
         )
@@ -6981,7 +6981,7 @@
     (pin "1" (uuid 8ab06107-5313-4447-971f-fb7d65651ac3))
     (pin "2" (uuid 9cf32191-938b-4522-8565-a552214f43f9))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "R19") (unit 1)
         )
@@ -7007,7 +7007,7 @@
     (pin "1" (uuid e0c11d58-c4dd-4ecc-bcb4-b54c18413020))
     (pin "2" (uuid a650deeb-15b5-4039-b557-90b3baf05b35))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "R10") (unit 1)
         )
@@ -7034,7 +7034,7 @@
     (pin "2" (uuid 8c6d64b7-6671-4df9-8a6c-47c3ce08d03f))
     (pin "3" (uuid c4f58dc5-9622-47df-a9b6-b7007ece0006))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "D22") (unit 1)
         )
@@ -7060,7 +7060,7 @@
     (pin "1" (uuid 13cb0ec8-4ff8-42f3-a19e-fef0171a059d))
     (pin "2" (uuid 83ffad8f-f92e-4a0a-993e-05b4b30c3e0c))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "R23") (unit 1)
         )
@@ -7122,7 +7122,7 @@
     (pin "8" (uuid b3dbb71b-ebf8-4200-a9a0-b531484856ed))
     (pin "9" (uuid f8a538bd-d013-41c1-8c08-dd33a362b9d5))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "U6") (unit 1)
         )
@@ -7148,7 +7148,7 @@
     (pin "1" (uuid cf19eab5-71e9-4762-a1bf-8e22f7ba1791))
     (pin "2" (uuid 2587835a-b177-4ffd-858f-b2323817993c))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "J13") (unit 1)
         )
@@ -7174,7 +7174,7 @@
     (pin "1" (uuid d8132e14-d289-4f09-878b-608baf361421))
     (pin "2" (uuid 5d2c9402-155a-45a8-ab0d-b60d378261d5))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "R33") (unit 1)
         )
@@ -7200,7 +7200,7 @@
     (pin "1" (uuid 2c77167f-55d6-416a-b443-af1f0abf36d0))
     (pin "2" (uuid c39e6991-9f5f-46cc-9f41-c8154b2de688))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "C23") (unit 1)
         )
@@ -7226,7 +7226,7 @@
     (pin "1" (uuid 27804d6e-07e9-4973-84e9-bd13aefe2255))
     (pin "2" (uuid 489b7310-5bb6-4272-b23b-41046793579c))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "R76") (unit 1)
         )
@@ -7252,7 +7252,7 @@
     (pin "1" (uuid 3193cbce-b98a-457b-a747-b3143abaf2d0))
     (pin "2" (uuid 27e14959-2556-49e5-8bcd-19cdc7a01843))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "C21") (unit 1)
         )
@@ -7340,7 +7340,7 @@
     (pin "8" (uuid c6fd9c01-c01a-4d14-a99d-a265af62ed45))
     (pin "9" (uuid e8eec9a7-cbc4-4a7f-bbf5-73e8f0c0f25f))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "U5") (unit 1)
         )
@@ -7369,7 +7369,7 @@
     (pin "4" (uuid 9a102c25-a5e3-4eb4-b4dd-214ca6035f7a))
     (pin "5" (uuid c7b42140-7fac-4435-98e2-3dd63e74d7a1))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "J16") (unit 1)
         )
@@ -7420,7 +7420,7 @@
     (pin "2" (uuid b3dc91ea-50d0-43e9-aaad-2ce62af8df1f))
     (pin "3" (uuid 1e3e81d4-72bf-4885-8d16-83360efeb40d))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "Q2") (unit 1)
         )
@@ -7446,7 +7446,7 @@
     (pin "1" (uuid 122f3a2f-032a-403b-b767-e7556f85cb42))
     (pin "2" (uuid 2b7a0bf3-43fe-45ba-a834-2cdb536b9ec7))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "D6") (unit 1)
         )
@@ -7472,7 +7472,7 @@
     (pin "1" (uuid f8814f0a-3fa0-4ede-88e5-222cf9d30cae))
     (pin "2" (uuid c825b9aa-e371-4808-8cc1-cbb332408380))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "R26") (unit 1)
         )
@@ -7498,7 +7498,7 @@
     (pin "1" (uuid 0364a9d4-676b-4ee2-b751-d448a2d7a9b9))
     (pin "2" (uuid 44373a02-30c4-43c0-b03d-0928969dabd7))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "D23") (unit 1)
         )
@@ -7524,7 +7524,7 @@
     (pin "1" (uuid ea1600c6-bd54-4f44-9f6f-bf59bdac7daf))
     (pin "2" (uuid 144df033-6680-4b38-b8cb-cafa71d46834))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "C25") (unit 1)
         )
@@ -7588,7 +7588,7 @@
     (pin "8" (uuid e8599b2e-49bd-44d3-ae23-4f6d7b437be7))
     (pin "9" (uuid 60767bee-024e-429e-bbee-8b733f183f27))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "D2") (unit 1)
         )
@@ -7614,7 +7614,7 @@
     (pin "1" (uuid 23840fe8-27c2-4b53-9400-65f8b27a4a08))
     (pin "2" (uuid 6b1f1f97-13ec-4822-a807-441e1e8588b8))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "C18") (unit 1)
         )
@@ -7643,7 +7643,7 @@
     (pin "4" (uuid 1a0fe2f9-e812-4f93-b08f-eb8052280a40))
     (pin "5" (uuid d6351804-281f-49e5-8585-955d74aadebd))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "J4") (unit 1)
         )
@@ -7669,7 +7669,7 @@
     (pin "1" (uuid 96cc7dc6-06bd-47cb-9deb-42c8c3417f8c))
     (pin "2" (uuid 424604ef-dec1-44d5-accf-87072cefdb34))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "R49") (unit 1)
         )
@@ -7695,7 +7695,7 @@
     (pin "1" (uuid 36b02aba-3f8f-403c-b97c-97e5f6a2a02d))
     (pin "2" (uuid 19d87dc3-96a6-4771-8655-de9336b77c38))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "R18") (unit 1)
         )
@@ -7722,7 +7722,7 @@
     (pin "2" (uuid 69c159b5-0eb0-4ed6-81a6-0bdb564bab65))
     (pin "3" (uuid c59324ab-c01c-464f-bd01-a1cffe4e3a14))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "D7") (unit 1)
         )
@@ -7748,7 +7748,7 @@
     (pin "1" (uuid 49a6b6a4-88d9-44d3-b917-1f801cb7e8e4))
     (pin "2" (uuid 34c14387-5744-474d-a899-3876241ac170))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "C5") (unit 1)
         )
@@ -7774,7 +7774,7 @@
     (pin "1" (uuid 5e6f89ca-1718-47d6-a882-3e0b5d303f35))
     (pin "2" (uuid 2d6ee8d9-4c90-451c-aec9-53e5378e102d))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "R50") (unit 1)
         )
@@ -7801,7 +7801,7 @@
     (pin "2" (uuid f1c783c7-e7b7-4a3e-a0c2-f8cf36ee3ebe))
     (pin "3" (uuid 27e93015-b0b8-4342-bc3a-a59f4da3a8e2))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "D14") (unit 1)
         )
@@ -7809,25 +7809,25 @@
     )
   )
 
-  (symbol (lib_id "Device:R_Small_US") (at 533.4 370.84 270) (mirror x) (unit 1)
+  (symbol (lib_id "Device:R_Small_US") (at 523.24 370.84 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a23e3d2c-81b1-4063-8111-c826ada77139)
-    (property "Reference" "R36" (at 533.4 365.76 90)
+    (property "Reference" "R36" (at 523.24 365.76 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "10k Ohm" (at 533.4 368.3 90)
+    (property "Value" "10k Ohm" (at 523.24 368.3 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" (at 533.4 370.84 0)
+    (property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" (at 523.24 370.84 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 533.4 370.84 0)
+    (property "Datasheet" "~" (at 523.24 370.84 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid a8845bbc-8434-4ed4-90bc-4988f239e7a4))
     (pin "2" (uuid 7c9d41af-7ea4-4676-b2ab-793362ec7c9e))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "R36") (unit 1)
         )
@@ -7853,7 +7853,7 @@
     (pin "1" (uuid 5b9aa77a-3661-42ba-a0de-ccad9723e830))
     (pin "2" (uuid c1693d39-f7c3-444c-814a-a22275a0eaa1))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "C22") (unit 1)
         )
@@ -7879,7 +7879,7 @@
     (pin "1" (uuid cfcf83b1-0e49-4dd8-a896-3cd24e007c9e))
     (pin "2" (uuid 0fa594db-6fe0-4ea8-92c4-4e1c8599e0fb))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "J11") (unit 1)
         )
@@ -7905,7 +7905,7 @@
     (pin "1" (uuid 1c97c4c2-8eaa-4277-b9d0-2410ac837d62))
     (pin "2" (uuid c57a481f-93d4-4f90-a201-eeca2c41de16))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "R55") (unit 1)
         )
@@ -7931,7 +7931,7 @@
     (pin "1" (uuid 15036e3e-fcf2-4fc3-bc4e-b4c6af8be4c5))
     (pin "2" (uuid e610eda2-ace9-450a-81de-bf37e8741bca))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "R65") (unit 1)
         )
@@ -7957,7 +7957,7 @@
     (pin "1" (uuid dfdb1b8e-8d19-4d34-8a02-c05ffe4b0dbb))
     (pin "2" (uuid 204f089a-a32b-4036-8f70-4256c21f6e0f))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "R58") (unit 1)
         )
@@ -7983,7 +7983,7 @@
     (pin "1" (uuid 5276cd27-5053-41bc-b254-f6ab4f8213f8))
     (pin "2" (uuid 2bc753a4-163c-4317-8903-6ac85e054268))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "R47") (unit 1)
         )
@@ -7991,25 +7991,25 @@
     )
   )
 
-  (symbol (lib_id "Device:R_Small_US") (at 532.13 387.35 270) (mirror x) (unit 1)
+  (symbol (lib_id "Device:R_Small_US") (at 523.24 387.35 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid abf81e1d-0a38-41aa-8016-b4092fc71abe)
-    (property "Reference" "R39" (at 532.13 381 90)
+    (property "Reference" "R39" (at 523.24 381 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "10k Ohm" (at 532.13 383.54 90)
+    (property "Value" "10k Ohm" (at 523.24 383.54 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" (at 532.13 387.35 0)
+    (property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" (at 523.24 387.35 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 532.13 387.35 0)
+    (property "Datasheet" "~" (at 523.24 387.35 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 8a89fdd4-54e5-47f6-9f72-5c745db03b7f))
     (pin "2" (uuid bb4cc1e4-4d6a-435a-8880-512592ccb9ed))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "R39") (unit 1)
         )
@@ -8035,7 +8035,7 @@
     (pin "1" (uuid c6aa6318-108b-4b4f-b248-6852d50cb361))
     (pin "2" (uuid ef17bd4d-f76c-45e4-b6b1-8e088e3452a6))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "C4") (unit 1)
         )
@@ -8061,7 +8061,7 @@
     (pin "1" (uuid 66671011-77a2-4803-b9e0-ec1a96b6c9af))
     (pin "2" (uuid 5ef2b7d3-b9ae-451f-8a70-302eb07799d2))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "C11") (unit 1)
         )
@@ -8087,7 +8087,7 @@
     (pin "1" (uuid fd436104-440a-4328-856a-94399287f706))
     (pin "2" (uuid a7aa69f6-68e9-462f-83e1-9909fa9fabb2))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "C24") (unit 1)
         )
@@ -8113,7 +8113,7 @@
     (pin "1" (uuid 5c19c0e8-d040-4d05-919d-54fdb80220db))
     (pin "2" (uuid 1f19a010-cfb3-4f43-8d36-32afd465738f))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "R72") (unit 1)
         )
@@ -8139,7 +8139,7 @@
     (pin "1" (uuid 4b6e7279-d8ae-4472-8467-57f331258e38))
     (pin "2" (uuid f24c2bf6-bc06-409c-8d78-79d8b0e1f295))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "R60") (unit 1)
         )
@@ -8165,7 +8165,7 @@
     (pin "1" (uuid c4d2f93f-d831-4d02-afa6-bbc612a85828))
     (pin "2" (uuid 4bd6eff2-4c6e-426c-b944-6394ad43a4a2))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "R59") (unit 1)
         )
@@ -8191,7 +8191,7 @@
     (pin "1" (uuid f7ac488e-7e48-4967-95b8-b68d63db7fd3))
     (pin "2" (uuid 1a12a7ea-5fe1-4b18-acbc-bb1299574c5e))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "R29") (unit 1)
         )
@@ -8217,7 +8217,7 @@
     (pin "1" (uuid 7bd7b8c9-d28b-46f5-bd3a-79894fbb7c42))
     (pin "2" (uuid e93ec5be-0e9f-4166-a725-01de2a9b2524))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "R4") (unit 1)
         )
@@ -8243,7 +8243,7 @@
     (pin "1" (uuid 140308a1-dc24-4389-90f7-01ecdc554f68))
     (pin "2" (uuid 24b19473-43fe-4110-b89d-433750f46407))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "R63") (unit 1)
         )
@@ -8269,7 +8269,7 @@
     (pin "1" (uuid 19b297a5-92f5-4927-b71a-1ffd202ca877))
     (pin "2" (uuid 8fe53bb5-28b5-41f1-9ba3-227035f81a24))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "R25") (unit 1)
         )
@@ -8296,7 +8296,7 @@
     (pin "2" (uuid d09c38f1-2843-4c0c-a579-3614e560d147))
     (pin "3" (uuid 7bcffb56-1c2b-4ae6-ad35-7006104f49c1))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "J6") (unit 1)
         )
@@ -8323,7 +8323,7 @@
     (pin "2" (uuid d127318f-e6ee-4aa6-8794-a9c8d7148677))
     (pin "3" (uuid e8a993ec-3ca1-4e1c-b9db-8fedba6ba9f3))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "D13") (unit 1)
         )
@@ -8349,7 +8349,7 @@
     (pin "1" (uuid 75bf6c5c-9f72-49e5-bfbf-cee24998c85f))
     (pin "2" (uuid 8bcf6a44-9c90-494c-8000-0e24a486da16))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "C10") (unit 1)
         )
@@ -8375,7 +8375,7 @@
     (pin "1" (uuid 482dbf48-f3b6-407a-9db9-b416fd099ac5))
     (pin "2" (uuid f61f6d96-0c4b-46a4-a89e-d794d1884deb))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "R24") (unit 1)
         )
@@ -8401,7 +8401,7 @@
     (pin "1" (uuid 2cb7b9cb-8be5-4065-ab1b-79ff59e59d32))
     (pin "2" (uuid b47b99ae-1f7d-41c3-b83d-b393029a8269))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "R64") (unit 1)
         )
@@ -8463,7 +8463,7 @@
     (pin "8" (uuid 85acb98d-ff27-4c53-a0a1-c975abca81f0))
     (pin "9" (uuid 0bea0d5d-5dd0-4593-b86d-5c3d8907a19c))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "U13") (unit 1)
         )
@@ -8489,7 +8489,7 @@
     (pin "1" (uuid 0344df7b-58a7-4b50-aeb4-ac7911102c61))
     (pin "2" (uuid 776ff441-657b-484d-a317-52735cc7df64))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "R75") (unit 1)
         )
@@ -8515,7 +8515,7 @@
     (pin "1" (uuid c107e82e-90b2-4c0f-8f56-708c2045e5b9))
     (pin "2" (uuid 127bf516-2a90-4848-8d67-2e8270132f8a))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "C20") (unit 1)
         )
@@ -8569,7 +8569,7 @@
     (pin "5" (uuid 3e78208f-ca90-4ff9-b002-9318eb5dfb2d))
     (pin "6" (uuid c99a7c4a-011a-41fa-a323-2e913466d3f2))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "S1") (unit 1)
         )
@@ -8595,7 +8595,7 @@
     (pin "1" (uuid 66f8038e-bcbd-4faf-8db0-409ce2b23399))
     (pin "2" (uuid 063e95b7-d249-418d-b7b2-219476af9b1c))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "R1") (unit 1)
         )
@@ -8621,7 +8621,7 @@
     (pin "1" (uuid 09e30e4d-1985-44f7-a35c-fa9c869c45f0))
     (pin "2" (uuid 556bb799-1e62-43c7-86e5-a0370e59564e))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "R6") (unit 1)
         )
@@ -8709,7 +8709,7 @@
     (pin "8" (uuid 5524c13f-704f-4298-be6d-7c859d0ab11c))
     (pin "9" (uuid 1da336c2-273a-40e3-9bc5-c62556744b1f))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "U4") (unit 1)
         )
@@ -8735,7 +8735,7 @@
     (pin "1" (uuid b8de6c45-59c4-463f-8f0a-129dce9b93fc))
     (pin "2" (uuid 18a5740f-c8d9-46b1-8442-63ba649969b8))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "R42") (unit 1)
         )
@@ -8762,7 +8762,7 @@
     (pin "2" (uuid b965e0a3-4f9b-4af2-a401-86d0ca06a307))
     (pin "3" (uuid e05e4a1b-6bcc-48d1-a916-554478cf0990))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "D19") (unit 1)
         )
@@ -8793,7 +8793,7 @@
     (pin "6" (uuid cd8b6ef6-f2d8-48ae-bd83-6d4627d39e9b))
     (pin "7" (uuid f71826d8-34d8-4930-98c5-11e184143d2a))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "J15") (unit 1)
         )
@@ -8855,7 +8855,7 @@
     (pin "8" (uuid 5fb61197-ac30-42b3-adf3-fc820fa4b5d0))
     (pin "9" (uuid 89925ea6-b0f3-4e10-be20-62aac3bce350))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "U7") (unit 1)
         )
@@ -8881,7 +8881,7 @@
     (pin "1" (uuid 5211d1ae-e7bf-487f-a110-b6c33c9cb032))
     (pin "2" (uuid b9b488a2-bde8-4c03-b39b-e56cb821c915))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "R2") (unit 1)
         )
@@ -8908,7 +8908,7 @@
     (pin "2" (uuid 8af193f8-2cfb-4efc-b4e8-a31183c8b4c2))
     (pin "3" (uuid 52650e48-1dc3-45dc-b7c9-4994ace6296c))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "U10") (unit 1)
         )
@@ -8934,7 +8934,7 @@
     (pin "1" (uuid 07311825-9049-4f19-a02b-724d596ca2a0))
     (pin "2" (uuid 2c5add03-46d1-4bd9-b7b0-2478a389aada))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "J2") (unit 1)
         )
@@ -8961,7 +8961,7 @@
     (pin "2" (uuid a51051a6-f7ee-4281-91d3-accbad229e96))
     (pin "3" (uuid 30d78a8a-040f-4f3e-aaa0-dac019e1b733))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "D12") (unit 1)
         )
@@ -8987,7 +8987,7 @@
     (pin "1" (uuid 6c3710e0-ec84-42e9-babd-51648b5dc879))
     (pin "2" (uuid 16e8df45-0475-4415-a465-2a3c2220d8a1))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "R69") (unit 1)
         )
@@ -9038,7 +9038,7 @@
     (pin "2" (uuid 8add1361-e3ce-4676-a5a7-2009348d08bb))
     (pin "3" (uuid ad1700c6-e9cb-4a06-b37c-ed3fdc6af586))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "Q1") (unit 1)
         )
@@ -9065,7 +9065,7 @@
     (pin "2" (uuid 3f994e3d-6eec-4bbd-9cfd-7c94e81530a9))
     (pin "3" (uuid a112252e-8eb9-4e85-aaaa-a0262a7af9ff))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "J3") (unit 1)
         )
@@ -9091,7 +9091,7 @@
     (pin "1" (uuid 3c5ea96a-fc42-4871-9b31-3e4669539f22))
     (pin "2" (uuid af1b65b7-1c59-4925-8419-4623554aa93c))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "R44") (unit 1)
         )
@@ -9118,7 +9118,7 @@
     (pin "2" (uuid fd41cf1d-a9c6-472a-ac5e-563f344b1836))
     (pin "3" (uuid 71fcaf2d-3d18-47e2-98e4-fd8aef739eff))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "D1") (unit 1)
         )
@@ -9144,7 +9144,7 @@
     (pin "1" (uuid cf5acbd4-fed5-4085-9c0d-e2d28d81c75e))
     (pin "2" (uuid 1ea49de0-109a-480d-b7c3-bf346cc1991b))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "C8") (unit 1)
         )
@@ -9171,7 +9171,7 @@
     (pin "2" (uuid bb8a8e08-0339-4be1-a9cc-61a377c059f6))
     (pin "3" (uuid 7da16aa6-aad6-437b-a0c9-2f20f28f8e86))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "D10") (unit 1)
         )
@@ -9197,7 +9197,7 @@
     (pin "1" (uuid 8183fc0c-d729-4a8b-b377-43a256096005))
     (pin "2" (uuid 9168dc79-6d84-4341-819f-c218350b7337))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "R46") (unit 1)
         )
@@ -9223,7 +9223,7 @@
     (pin "1" (uuid 41996c66-c9d1-4bad-8de0-df53bba00fee))
     (pin "2" (uuid 19a834a8-7340-4934-9033-d0757a75830c))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "C1") (unit 1)
         )
@@ -9249,7 +9249,7 @@
     (pin "1" (uuid d6b62934-90e4-41e7-ad56-ce27d348908b))
     (pin "2" (uuid 31dc0b67-2043-4b8d-80ef-30d0a23f1037))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "R28") (unit 1)
         )
@@ -9276,7 +9276,7 @@
     (pin "2" (uuid a7432210-2392-4312-b5fd-77a671013221))
     (pin "3" (uuid 7d024581-653e-4cd6-a5d9-c220927d04c4))
     (instances
-      (project "Snap_Station_Organized"
+      (project "Snap_Station"
         (path "/eaef1172-3351-417c-bfc4-74a598f141cb"
           (reference "D8") (unit 1)
         )
